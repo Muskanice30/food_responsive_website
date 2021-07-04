@@ -1,0 +1,36 @@
+#home{
+    padding: 18px 20px;
+}
+#logo{
+    justify-content: center;
+    text-align: center;
+
+}
+#home::before{
+    height: 550px;
+}
+#services{
+    flex-direction: column;
+    
+   
+    
+}
+   
+#services.box{
+    margin:12px;
+}
+#clients{
+    margin: auto;
+}
+#clients img{
+   margin: 8px;
+
+}
+#contact-box input,
+#contact-box textarea{
+    width: 300px;
+    
+}
+.h-primary{
+    font-size: 2.5rem;
+}
